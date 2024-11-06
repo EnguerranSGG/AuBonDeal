@@ -1,6 +1,6 @@
 # Règles de gestion 
 
-Les règles de gestion ci-dessous on été rédigée à partir de MCD et du MLD fourni par vos soins. N'hésitez-pas à aller consulter nos recommandations de règles de gestion réalisé grâce à votre vision clair de votre site. 
+Les règles de gestion ci-dessous on été rédigée à partir du MCD et du MLD fournis par vos soins. N'hésitez-pas à aller consulter [nos recommandations de règles de gestion](./propositions-amelioration.md) réalisé grâce à votre vision clair du site AuBonDeal.
 
 ## Gestion des utilisateurs 
 
