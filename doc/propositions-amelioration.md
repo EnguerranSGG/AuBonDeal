@@ -41,3 +41,7 @@ Sans remettre en cause l'indégnable qualité du travail de conception que vous 
   -**RG23**: Un produit peut être commandé par un ou plusieurs utilisateurs.
   -**RG24**: Un produit ne doit pas pouvoir être commandé si son stock est à zéro.
   -**RG25**: Un produit peut être consulté par tout le monde.
+
+Un utilisiteur devrait avoir un nom et un prénom au lieu de seulement avoir un nom.
+Il serait pertinant de recolté l'adresse mail des utilisteurs afin de leur envoyer des offres commerciales.
+Éviter les doublons dans le diectionnaire de données created_at --> préciser ? 
