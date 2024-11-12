@@ -28,7 +28,8 @@ Chaque entité a été conçue pour optimiser les opérations CRUD, en tenant co
 ### II - Base de données
 - 2.1 : [Création de la BDD, ses tables et rôles](data/tables-roles.sql)
 - 2.2 : [Premier peuplement de la BDD](data/seed-data.sql)
-- 2.3 : [Première sauvegarde](data/Sauvegardes/manual_backup_20241111.sql)
+- 2.3 : [Première sauvegarde manuelle](data/Sauvegardes/manual_backup_20241111.sql)
+- 2.4 : [Première sauvegarde automatique](data/Sauvegardes/auto_backup_20241112.sql)
 
 ---
 
